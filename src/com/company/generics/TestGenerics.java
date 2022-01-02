@@ -17,5 +17,9 @@ public class TestGenerics {
         Question<Double> num2 = new Question<>(-5.0);
 
         System.out.println(num1.absEqual(num2));
+
+        Practice<Double> hello = new Practice<>(55.5);
+        System.out.println(hello.calculate());
+
     }
 }

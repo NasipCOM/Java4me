@@ -1,2 +1,7 @@
-package com.company.multithreading;public class Test {
+package com.company.multithreading;
+
+public class Test {
+    public static void main(String[] args) {
+
+    }
 }
