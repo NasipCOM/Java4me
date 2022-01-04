@@ -9,8 +9,8 @@ public class TestInterfaces {
         nasip.sayInfo();
 
         //Также можно создавать объекты и так но тогда будут доступны только методы из интерфейса
-//        Info lion = new Animal("Lion", 1);
-//        Info nasip = new Person("Nasip", 23, "male");
+//        Tests.Info lion = new Animal("Lion", 1);
+//        Tests.Info nasip = new Person("Nasip", 23, "male");
 
     }
 }
